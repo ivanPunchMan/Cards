@@ -10,5 +10,4 @@
 - MVC
 - Шаблон "Фабрика"
 
-Обзор приложения:
-https://user-images.githubusercontent.com/91836127/155311033-1898088b-d936-4ae8-8f01-c80bb60023d0.mp4
+![Карточки](https://user-images.githubusercontent.com/91836127/155311988-c059bbfa-755d-44f5-8229-da7b0cf8c100.gif)
